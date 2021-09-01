@@ -2,7 +2,10 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/class-shelve.dat" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/cqi101.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/people-shelve.dat" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/peoplegui.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tkinter103.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tom.pkl" charset="windows-1251" />
     <file url="PROJECT" charset="windows-1251" />
   </component>
