@@ -1,8 +1,6 @@
 # Пример 1.30.PP4E/Preview/cqi101.html
 
 
-from lxml import html
-
 <html>
 <title>Interactive Page</title>
 <body>
