@@ -8,4 +8,5 @@ print('<title>Reply Page</title>')      # html-разметка ответа
 if not 'user' in form:
     print('<h1>Who are you?</h1>')
 else:
-    print(f'<h1>Hello <i>{cqi.escape(form["user"].value)}</i>!</h1>')
+    print('<h1>Hello <i>%s</i>!</h1>' % cqi.escape(form['user'].value))
+

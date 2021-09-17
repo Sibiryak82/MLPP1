@@ -10,8 +10,8 @@ import os
 import shelve
 import sys
 
-shelvename = 'class-shelve'         # файлы хранилища находятся
-# в текущем каталоге
+shelvename = 'class-shelve'          # файлы хранилища находятся
+                                     # в текущем каталоге
 fieldnames = ('name', 'age', 'job', 'pay')
 
 form = cgi.FieldStorage()          # парсинг данных формы
@@ -24,7 +24,7 @@ replyhtml = """
 <html>
 <title>People Input Form</title>
 <body>
-<form method=POST action="peoplecqi.py">
+<form method=POST action="peoplecgi.py">
 <table>
 <tr><th>key<td><input type=text name=key value=%(key)s">
 $ROW$
