@@ -1,4 +1,4 @@
-# Пример 1.3. PP4E\Preview\dump_db_file.py
+# Пример 1.3. PP4E\Preview\dump_db_file.py/
 
 from make_db_file import loadDbase
 db = loadDbase()
