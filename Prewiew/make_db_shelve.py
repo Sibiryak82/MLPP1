@@ -10,7 +10,7 @@ people-shelve.dat и people-shelve.dir). Вы не должны удалять �
 имя базы.
 """
 
-from initdata import bob, sue, tom
+from Prewiew.initdata import bob, sue, tom
 import shelve
 db = shelve.open('people-shelve')
 db['bob'] = bob

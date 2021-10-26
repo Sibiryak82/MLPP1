@@ -6,7 +6,7 @@
 (он создает файлы bob.pkl, sue.pkl и tom.pkl в текущем рабочем каталоге).
 """
 
-from initdata import bob, sue, tom
+from Prewiew.initdata import bob, sue, tom
 import pickle
 for(key, record) in [('bob', bob), ('tom', tom), ('sue', sue)]:
     recfile = open(key + '.pkl', 'wb')

@@ -1,4 +1,4 @@
-# Пример 1.7.PP4E\Preview\update-db-pickle.py
+# Пример 1.7.PP4E\Preview\update_db_pickle.py
 
 import pickle
 dbfile = open('people-pickle', 'rb')

@@ -1,19 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/adder.py" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/adder2.py" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/adder3.py" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/adderSmall.py" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/data.txt" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/hello-in.py" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/hello-in.txt" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/hello-out.py" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/input.txt" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/moreplus.py" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/output.txt" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/reader.py" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/redirect.py" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/sorter.py" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/sorterSmall.py" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/teststreams.py" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/writer.py" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Desktop/програмирование/PP4E-Examples-1.4/PP4E-Examples-1.4/Examples/PP4E/System/Streams/writer2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Prewiew/class-shelve.dat" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/Prewiew/cqi-bin/cgi101.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Prewiew/cqi-bin/cgi101.py" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Prewiew/cqi-bin/class-shelve.dat" charset="windows-1251" />
-    <file url="file://$PROJECT_DIR$/Prewiew/cqi-bin/people-shelve.dat" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/Prewiew/cqi-bin/peoplecgi.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Prewiew/cqi-bin/peoplecgi.py" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Prewiew/cqi-bin/peoplegui.py" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Prewiew/cqi-bin/peoplegui.py" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Prewiew/cqi-bin/tkinter103.py" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Prewiew/cqi-bin/tkinter103.py" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Prewiew/cqi-bin/tom.pkl" charset="windows-1251" />
-    <file url="file://$PROJECT_DIR$/Prewiew/cqi-bin/webserver.py" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Prewiew/cqi-bin/webserver.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Prewiew/fungui.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Prewiew/initial-interaction.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Prewiew/people-shelve.dat" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Prewiew/peoplegui.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Prewiew/peoplegui.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Prewiew/py-blue-trans-out.ico" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Prewiew/tkinter103.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Prewiew/tkinter103.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Prewiew/tom.pkl" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Prewiew/webserver.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Prewiew/webserver.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/adder.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/adder2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/adder3.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/adderSmall.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/data.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/hello-in.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/hello-in.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/hello-out.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/input.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/moreplus.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/output.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/reader.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/redirect.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/sorter.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/sorterSmall.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/teststreams.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/writer.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Streams/writer2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/helloshell.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/more.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/myscript.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/spam.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/testargv.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/testargv2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/whereami.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cqi101.py" charset="UTF-8" />
     <file url="PROJECT" charset="windows-1251" />
   </component>

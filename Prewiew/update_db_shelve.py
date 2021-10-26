@@ -11,7 +11,7 @@
 но при этом увеличивается потребление памяти, а сама операция закрытия может занимать продолжительное время.
 """
 
-from initdata import tom
+from Prewiew.initdata import tom
 import shelve
 db = shelve.open('people-shelve')
 sue = db['sue']               # извлекает объект sue
