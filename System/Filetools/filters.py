@@ -1,4 +1,4 @@
-# Пример 4.3.PP4E\System\Filetools\filters.py
+# Пример 4.3.PP4E\System\Filetools\filters.py.
 
 import sys
 
