@@ -1,6 +1,6 @@
 # ֿנטלונ 4.1.
 
-def scaner(name, function):
+def scanner(name, function):
     file = open(name, 'r')        # סמחהאעü מבתוךע פאיכא
     while True:
         line = file.readline()    # גûחמג לועמהמג פאיכא
