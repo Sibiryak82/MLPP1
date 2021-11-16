@@ -1,9 +1,9 @@
-# Пример 4.1.
+# РџСЂРёРјРµСЂ 4.1.
 
 def scanner(name, function):
-    file = open(name, 'r')        # создать объект файла
+    file = open(name, 'r')        # СЃРѕР·РґР°С‚СЊ РѕР±СЉРµРєС‚ С„Р°Р№Р»Р°
     while True:
-        line = file.readline()    # вызов методов файла
-        if not line: break        # до конца файла
-        function(line)            # вызвать объект функции
+        line = file.readline()    # РІС‹Р·РѕРІ РјРµС‚РѕРґРѕРІ С„Р°Р№Р»Р°
+        if not line: break        # РґРѕ РєРѕРЅС†Р° С„Р°Р№Р»Р°
+        function(line)            # РІС‹Р·РІР°С‚СЊ РѕР±СЉРµРєС‚ С„СѓРЅРєС†РёРё
     file.close()
