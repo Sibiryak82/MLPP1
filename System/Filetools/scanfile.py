@@ -1,4 +1,4 @@
-# Пример 4.1.
+# Пример 4.1.PP4E\System\Filetools\scanfile.py
 
 def scanner(name, function):
     file = open(name, 'r')        # создать объект файла
