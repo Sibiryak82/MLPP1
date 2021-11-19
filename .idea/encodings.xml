@@ -34,6 +34,7 @@
     <file url="file://$PROJECT_DIR$/System/Filetools/hillbillies.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/System/Filetools/scanfile.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/System/Processes/fork-count.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System/Processes/fork-exec.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/System/Processes/fork1.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/System/Streams/adder.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/System/Streams/adder2.py" charset="UTF-8" />
