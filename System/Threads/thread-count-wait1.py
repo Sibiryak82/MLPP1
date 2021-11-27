@@ -1,8 +1,8 @@
-# Пример 5.8.PP4E\System\Threads\thread-count-wait1.py
+# РџСЂРёРјРµСЂ 5.8.PP4E\System\Threads\thread-count-wait1.py
 """
-использование мьютексов в родительском/главном потоке выполнения для определения
-момента завершения дочерних потоков, взамен time.sleep; блокирует stdout, чтобы
-избежать конфликтов при выводе;
+РСЃРїРѕР»СЊР·РѕРІР°РЅРёРµ РјСЊСЋС‚РµРєСЃРѕРІ РІ СЂРѕРґРёС‚РµР»СЊСЃРєРѕРј/РіР»Р°РІРЅРѕРј РїРѕС‚РѕРєРµ РІС‹РїРѕР»РЅРµРЅРёСЏ РґР»СЏ РѕРїСЂРµРґРµР»РµРЅРёСЏ
+РјРѕРјРµРЅС‚Р° Р·Р°РІРµСЂС€РµРЅРёСЏ РґРѕС‡РµСЂРЅРёС… РїРѕС‚РѕРєРѕРІ, РІР·Р°РјРµРЅ time.sleep; Р±Р»РѕРєРёСЂСѓРµС‚ stdout, С‡С‚РѕР±С‹
+РёР·Р±РµР¶Р°С‚СЊ РєРѕРЅС„Р»РёРєС‚РѕРІ РїСЂРё РІС‹РІРѕРґРµ;
 """
 
 import _thread as thread
@@ -13,7 +13,7 @@ def counter(myId, count):
     for i in range(count):
         stdoutmutex.acquire()
         print('[%s] => %s' % (myId, i))
-        stdoutmutex[myId].acquire()           # сигнал главному потоку
+        stdoutmutex[myId].acquire()           # СЃРёРіРЅР°Р» РіР»Р°РІРЅРѕРјСѓ РїРѕС‚РѕРєСѓ
 
 for i in range(10):
     thread.start_new_thread(counter, (i, 100))
@@ -21,3 +21,5 @@ for i in range(10):
 for mutex in exitmutex:
     while not mutex.locked(): pass
 print('Main thread exiting')
+
+
