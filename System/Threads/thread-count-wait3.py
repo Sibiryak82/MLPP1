@@ -6,7 +6,9 @@
 в цикле ожидания, и для имитации выполнения продолжительных операций добавлен
 вызов функции sleep
 """
-import _thread as thread, time
+import _thread as thread
+import time
+
 stdoutmutex = thread.allocate_lock()
 numthreads = 5
 exitmutexes = [thread.allocate_lock() for i in range(numthreads)]
@@ -19,7 +21,7 @@ def counter(myId, count, mutex):          # мьютекс передается 
         exitmutexes[myId].acquire()       # глобальный список: сигнал главному потоку
 
     for i in range(numthreads):
-        thread.start_new_thread(counter,(i, 5, stdoutmutex))
+        thread.start_new_thread(counter, (i, 5, stdoutmutex))
 
     while not all(mutex.locked() for mutex in exitmutexes): time.sleep(0.25)
     print('Main thread exiting')
